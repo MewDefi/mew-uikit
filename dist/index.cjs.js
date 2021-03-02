@@ -2096,11 +2096,11 @@ var links = [
             // },
             {
                 label: "Github",
-                href: "https://github.com/PikachuDefi/",
+                href: "https://github.com/MewDefi/",
             },
             {
                 label: "Wiki",
-                href: "https://github.com/PikachuDefi/pikachu-contracts/wiki",
+                href: "https://github.com/MewDefi/mew-contracts/wiki",
             },
         ],
     },
@@ -2112,7 +2112,7 @@ var socials = [
     //items: [
     //  {
     //    label: "English",
-    //    href: "https://t.me/pikachudefi",
+    //    href: "https://t.me/mewdefi",
     //  },
     // {
     //   label: "Bahasa Indonesia",
@@ -2156,7 +2156,7 @@ var socials = [
     // },
     //{
     //  label: "Announcements",
-    //  href: "https://t.me/pikachufinanceann",
+    //  href: "https://t.me/mewfinanceann",
     //},
     // {
     //   label: "Whale Alert",
@@ -2167,7 +2167,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/PikachuDefi",
+        href: "https://twitter.com/MewDefi",
     },
 ];
 var MENU_HEIGHT = 64;
